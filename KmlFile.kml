@@ -9,7 +9,7 @@
 			</Icon>
 		</IconStyle>
 	</Style>
-	<Placemarkc id= "VH">
+	<Placemark id= "VH">
 		<name>Nhà Sách Vạn Hoa</name>
 		<styleUrl>#sn_B</styleUrl>
 		<Point>
